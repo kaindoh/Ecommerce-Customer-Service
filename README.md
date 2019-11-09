@@ -32,7 +32,7 @@ Univariate, Bivariate & Multivariate analsis and found relationships between
 
     administrative and administrative_duration
 
-6. Implement the Solution
+# Implement the Solution
  
  Perfomed KMeans clustering
  
@@ -45,5 +45,7 @@ Univariate, Bivariate & Multivariate analsis and found relationships between
  Perfomed TSNE reduction technique
  
  Compared the perfomance between PCA and TSNE reduction technique
+ 
+ # Conclusion
  
  Choosing the most optimal dimension reduction technique and most optimal clustering technique.
